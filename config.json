@@ -1,0 +1,12 @@
+{
+    "data_directory": "data",
+    "openai_key": "INSERT_OPENAI_API_KEY_HERE",
+    "info_dict": {
+      "Business Summary": "Write a brief business summary describing the company and its key products",
+      "Office Summary": "Write a description of the location and offices of the company",
+      "Risk Assessment": "Write a description of the main risks facing the company",
+      "Core Products": "List the core products produced by the company",
+      "Industry": "Describe the industry that the company primarily operates within",
+      "Financial Summary": "Write a summary of the financial performance of the company over the past year"
+    }
+  }
